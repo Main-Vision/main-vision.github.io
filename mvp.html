@@ -32,10 +32,14 @@
 document.addEventListener('DOMContentLoaded', function() {
     const scanButton = document.getElementById('scanButton');
     const resultDiv = document.getElementById('result');
+    const container = document.querySelector('.container');
 
     scanButton.addEventListener('click', startScanning);
 
     function startScanning() {
+        // Hide the container
+        container.style.display = 'none';
+
         Quagga.init({
             inputStream: {
                 name: "Live",
@@ -51,6 +55,8 @@ document.addEventListener('DOMContentLoaded', function() {
         }, function(err) {
             if (err) {
                 console.error(err);
+                // Show the container if there's an error
+                container.style.display = 'block';
                 return;
             }
             Quagga.start();
@@ -60,6 +66,9 @@ document.addEventListener('DOMContentLoaded', function() {
             const code = result.codeResult.code;
             resultDiv.textContent = `Scanned: ${code}`;
             Quagga.stop();
+
+            // Show the container again
+            container.style.display = 'block';
         });
     }
 });
