@@ -1,0 +1,215 @@
+[{
+    "sport_title": "Football",
+    "associated_codes": [2901, 2902],
+    "associated_names": ["Football / Football en salle (Futsal)", "Beach soccer"]
+  },
+  {
+    "sport_title": "Tennis",
+    "associated_codes": [7901],
+    "associated_names": ["Tennis"]
+  },
+  {
+    "sport_title": "Basket-Ball",
+    "associated_codes": [1101],
+    "associated_names": ["Basket-Ball"]
+  },
+  {
+    "sport_title": "Handball",
+    "associated_codes": [3701],
+    "associated_names": ["Handball / Mini hand / Handball de plage"]
+  },
+  {
+    "sport_title": "Randonnée",
+    "associated_codes": [6201, 4801],
+    "associated_names": ["Randonnée pédestre", "Canyonisme"]
+  },
+  {
+    "sport_title": "Pétanque",
+    "associated_codes": [6001, 7203, 7204],
+    "associated_names": ["Pétanque et jeu provencal", "Sports boules", "Boules traditionnelles"]
+  },
+  {
+    "sport_title": "Volley-ball",
+    "associated_codes": [8801],
+    "associated_names": ["Volley-ball / Volley-ball de plage (beach-volley) / Green-Volley"]
+  },
+  {
+    "sport_title": "Gymnastique",
+    "associated_codes": [3501, 3401, 3402, 3403, 3408, 3404, 8401, 3406],
+    "associated_names": ["Gymnastique volontaire", "Gymnastique Artistique", "Gymnastique Rythmique", "Gymnastique Aérobic", "Gymnastique Acrobatique", "Expression gymnique", "Twirling bâton", "Tumbling"]
+  },
+  {
+    "sport_title": "Badminton",
+    "associated_codes": [701],
+    "associated_names": ["Badminton"]
+  },
+  {
+    "sport_title": "Vélo",
+    "associated_codes": [2204, 2202, 2301],
+    "associated_names": ["Vtt (Cross Country/ Descente/ Trial/ Rallye/ Four Cross)", "Bicross (BMX)", "Cyclotourisme"]
+  },
+  {
+    "sport_title": "Equitation",
+    "associated_codes": [2601, 2608, 2602, 2606, 2605],
+    "associated_names": ["Equitation", "Randonnée équestre", "Concours complet", "Horse - Ball", "Attelage"]
+  },
+  {
+    "sport_title": "Danses",
+    "associated_codes": [2402, 2401],
+    "associated_names": ["Autres Danses", "Danses par Couple (Danses de compétition)"]
+  },
+  {
+    "sport_title": "Ping-pong",
+    "associated_codes": [8001],
+    "associated_names": ["Tennis de table"]
+  },
+  {
+    "sport_title": "Athlétisme",
+    "associated_codes": [503, 2604, 501, 502],
+    "associated_names": ["Course sur piste", "Saut d'obstacle", "Saut", "Lancer"]
+  },
+  {
+    "sport_title": "Art martials",
+    "associated_codes": [4301, 4401, 401, 7801, 7701],
+    "associated_names": ["Judo / Jujitsu / Taïso", "Karaté/Karaté jutsu/Goshin jutsu/Kobudo/Nihon Tai-jutsu/Taijitsu/Nambudo/Ninjutsu/Nunchaku", "Aikido / Aikibudo / Budo", "Tai chi chuan / Chi gong", "Taekwondo / Hapkido / Tang-soo-do / Soo bahk do / Sin moo hapkido / Hapkido jin jung kwan"]
+  },
+  {
+    "sport_title": "Sport canins",
+    "associated_codes": [2603, 7402, 7401, 7403],
+    "associated_names": ["Dressage", "Ski Joering Canin", "Cani VTT", "Cross canin (Cani-Cross)"]
+  },
+  {
+    "sport_title": "Musculation",
+    "associated_codes": [3602, 3601, 3603],
+    "associated_names": ["Musculation", "Haltérophilie / Force athlétique", "Culturisme"]
+  },
+  {
+    "sport_title": "Natation",
+    "associated_codes": [5206, 5201, 5202, 5203],
+    "associated_names": ["Baignade loisirs", "Natation course sportive", "Natation synchronisée", "Natation en eau libre"]
+  },
+  {
+    "sport_title": "Escalade",
+    "associated_codes": [4802, 8907, 8903],
+    "associated_names": ["Escalade", "Escalade sur PAH", "Escalade dans les arbres"]
+  },
+  {
+    "sport_title": "Spéléologie",
+    "associated_codes": [7001],
+    "associated_names": ["Spéléologie"]
+  },
+  {
+    "sport_title": "Rugby",
+    "associated_codes": [6401, 6501],
+    "associated_names": ["Rugby à 15 / Rugby à 7", "Rugby à 13 / Rugby à 7"]
+  },
+  {
+    "sport_title": "Skate",
+    "associated_codes": [6306],
+    "associated_names": ["Planche à roulettes (Skate)"]
+  },
+  {
+    "sport_title": "Sports Nautiques",
+    "associated_codes": [1701, 1703, 1710, 1704, 5205, 1706, 1705, 1709, 6902],
+    "associated_names": ["Canoë de randonnée", "Descente", "Kayak de mer", "Kayak-polo", "Water-Polo", "Raft", "Slalom", "Pirogue polynésienne", "Ski nautique"]
+  },
+  {
+    "sport_title": "Pêche",
+    "associated_codes": [5501, 5701, 5601, 2802],
+    "associated_names": ["Pêche au coup en eau douce", "Pêche sportive à la mouche et au lancer", "Pêche en mer", "Pêche sous marine"]
+  },
+  {
+    "sport_title": "Sports de combat",
+    "associated_codes": [1401, 4701, 5901, 6601, 3101, 4501, 5101],
+    "associated_names": ["Boxe Anglaise", "Boxe française savate", "Full contact", "Lutte traditionnelle", "Cesta punta", "Kick boxing", "Boxe thaïlandaise"]
+  },
+  {
+    "sport_title": "Aquagym",
+    "associated_codes": [5208],
+    "associated_names": ["Aquagym"]
+  },
+  {
+    "sport_title": "Sports de voile",
+    "associated_codes": [8502, 1801, 8501, 1802, 1803],
+    "associated_names": ["Dériveur / Multicoques", "Char à voile", "Planche à Voile", "Voilier des sables", "Char à cerf volant"]
+  },
+  {
+    "sport_title": "Golf",
+    "associated_codes": [3301],
+    "associated_names": ["Golf"]
+  },
+  {
+    "sport_title": "Sports aériens",
+    "associated_codes": [8704, 8703, 6101, 101, 201, 5401, 8601],
+    "associated_names": ["Parapente", "Deltaplane", "Planeur ULM", "Aéromodélisme", "Vol à moteur", "Parachutisme", "Vol à voile"]
+  },
+  {
+    "sport_title": "Sports de glisse",
+    "associated_codes": [6303, 6307, 6301, 6302, 7301, 6808],
+    "associated_names": ["Roller acrobatique", "Randonnée Roller", "Patinage artistique", "Patinage de course", "Ballet sur glace", "Surf des neiges"]
+  },
+  {
+    "sport_title": "Escrime",
+    "associated_codes": [2701],
+    "associated_names": ["Escrime"]
+  },
+  {
+    "sport_title": "Hockey",
+    "associated_codes": [3801, 7304],
+    "associated_names": ["Hockey en salle / Hockey sur gazon", "Hockey sur glace"]
+  },
+  {
+    "sport_title": "Billard / Bowling / quilles",
+    "associated_codes": [1201, 1301, 1302],
+    "associated_names": ["Billard", "Bowling", "Sports de quilles"]
+  },
+  {
+    "sport_title": "Course",
+    "associated_codes": [2002, 1702, 2609, 505, 504, 507],
+    "associated_names": ["Course d'orientation", "Course en ligne", "Course sur le plat", "Course sur route", "Cross country", "Course à pied en nature"]
+  },
+  {
+    "sport_title": "Sports de pilotage ",
+    "associated_codes": [4903, 7102, 4905, 7101, 4901, 201, 301, 3201],
+    "associated_names": ["Motocross / Enduro", "Karting", "Quad", "Sport automobile", "Motocyclisme", "Formule racer / Vol à moteur / Voltige aérienne/Rallye aérien/Pilotage précision", "Aérostation", "Giraviation"]
+  },
+  {
+    "sport_title": "Sports d'hiver",
+    "associated_codes": [6802, 6801, 4804, 6804, 6805, 6806, 6807],
+    "associated_names": ["Ski nordique", "Ski alpin", "Ski alpinisme", "Ski nordique-biathlon", "Ski artistique", "Ski artistique bosses", "Ski artistique sauts"]
+  },
+  {
+    "sport_title": "Trampoline",
+    "associated_codes": [3405],
+    "associated_names": ["Trampoline / Double mini-tramp"]
+  },
+  {
+    "sport_title": "Sports traditionnels",
+    "associated_codes": [1901, 2101, 4001, 901],
+    "associated_names": ["Course camarguaise", "Course landaise", "Balle au tambourin", "Ballon au poing"]
+  },
+  {
+    "sport_title": "Padel",
+    "associated_codes": [5301],
+    "associated_names": ["Padel"]
+  },
+  {
+    "sport_title": "Squash",
+    "associated_codes": [7501],
+    "associated_names": ["Squash"]
+  },
+  {
+    "sport_title": "Sports de sauvetage",
+    "associated_codes": [6701, 6702, 4201],
+    "associated_names": ["Sauvetage en eau plate", "Sauvetage côtier/Surfboat", "Joutes et sauvetage nautique"]
+  },
+  {
+    "sport_title": "Sports de cible",
+    "associated_codes": [3901, 1001, 1002, 1003, 1004, 8201, 8101, 8104, 8103, 8102],
+    "associated_names": ["Javelot Tir sur cible", "Fosse universelle", "Parcours de chasse", "Fosse européenne", "Compak sporting", "Tir à l'arc", "Carabine / Pistolet / Plateaux", "Tir aux armes réglementaires", "Arbalète et autres", "Cible Mobile / Carabine 300m"]
+  },
+  {
+    "sport_title": "Parcours de santé",
+    "associated_codes": [8901],
+    "associated_names": ["Activités de forme et de santé"]
+  }]
