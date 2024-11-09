@@ -69,7 +69,7 @@
     "associated_names": ["Course sur piste", "Saut d'obstacle", "Saut", "Lancer"]
   },
   {
-    "sport_title": "Art martials",
+    "sport_title": "Art martiaux",
     "associated_codes": [4301, 4401, 401, 7801, 7701],
     "associated_names": ["Judo / Jujitsu / Taïso", "Karaté/Karaté jutsu/Goshin jutsu/Kobudo/Nihon Tai-jutsu/Taijitsu/Nambudo/Ninjutsu/Nunchaku", "Aikido / Aikibudo / Budo", "Tai chi chuan / Chi gong", "Taekwondo / Hapkido / Tang-soo-do / Soo bahk do / Sin moo hapkido / Hapkido jin jung kwan"]
   },
@@ -80,8 +80,8 @@
   },
   {
     "sport_title": "Musculation",
-    "associated_codes": [3602, 3601, 3603],
-    "associated_names": ["Musculation", "Haltérophilie / Force athlétique", "Culturisme"]
+    "associated_codes": [3602, 3601, 3603, 8901],
+    "associated_names": ["Musculation", "Haltérophilie / Force athlétique", "Culturisme", "Activités de forme et de santé"]
   },
   {
     "sport_title": "Natation",
@@ -207,9 +207,4 @@
     "sport_title": "Sports de cible",
     "associated_codes": [3901, 1001, 1002, 1003, 1004, 8201, 8101, 8104, 8103, 8102],
     "associated_names": ["Javelot Tir sur cible", "Fosse universelle", "Parcours de chasse", "Fosse européenne", "Compak sporting", "Tir à l'arc", "Carabine / Pistolet / Plateaux", "Tir aux armes réglementaires", "Arbalète et autres", "Cible Mobile / Carabine 300m"]
-  },
-  {
-    "sport_title": "Parcours de santé",
-    "associated_codes": [8901],
-    "associated_names": ["Activités de forme et de santé"]
   }]
