@@ -1,7 +1,7 @@
 [{
     "sport_title": "Football",
-    "associated_codes": [2901, 2902],
-    "associated_names": ["Football / Football en salle (Futsal)", "Beach soccer"]
+    "associated_codes": [2901],
+    "associated_names": ["Football / Football en salle (Futsal)"]
   },
   {
     "sport_title": "Tennis",
