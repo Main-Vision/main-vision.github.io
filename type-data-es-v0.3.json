@@ -169,7 +169,7 @@
     "associated_names": ["Course d'orientation", "Course en ligne", "Course sur le plat", "Course sur route", "Cross country", "Course à pied en nature"]
   },
   {
-    "sport_title": "Sports de pilotage ",
+    "sport_title": "Sports de pilotage",
     "associated_codes": [4903, 7102, 4905, 7101, 4901, 201, 301, 3201],
     "associated_names": ["Motocross / Enduro", "Karting", "Quad", "Sport automobile", "Motocyclisme", "Formule racer / Vol à moteur / Voltige aérienne/Rallye aérien/Pilotage précision", "Aérostation", "Giraviation"]
   },
